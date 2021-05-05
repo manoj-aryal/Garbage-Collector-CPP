@@ -1,4 +1,4 @@
-# Garbage Collector for C++ using Smart Pointers.
+# Garbage Collector for C++
 
 Implemented own version of smart pointer for garbage collection and to verify that there are no memory leaks.
 
